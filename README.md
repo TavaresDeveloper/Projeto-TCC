@@ -25,9 +25,3 @@ The project is **non-profit** and entirely focused on the **beekeeping sector**,
 The main objective of the solution is to promote the **digitalization and automation of the sales and commercialization process**, reducing dependence on manual procedures while providing a more convenient experience for both producers and consumers. In this way, the system aims to contribute to the organization of commercial activities, increase product visibility, and facilitate customers' access to information and purchasing channels provided by beekeepers.
 
 Beyond its commercial purpose, the project seeks to demonstrate how the application of technological resources can support traditional economic sectors by promoting **innovation, accessibility, efficiency, and digital transformation**. The initiative also represents an opportunity to connect the academic environment with real-world challenges faced by the beekeeping industry, applying software development knowledge to create a solution designed for a practical and specific context.
-
-<<<<<<< HEAD
-This repository contains the files, source code, documentation, and other resources related to the development of the application, serving as a technical and academic record of the stages carried out throughout the development of the Final Course Project.
-=======
-This repository contains the files, source code, documentation, and other resources related to the development of the application, serving as a technical and academic record of the stages carried out throughout the development of the Final Course Project.
->>>>>>> ebb7d76022bc923b6186e64032afa7fb29a83e5a
